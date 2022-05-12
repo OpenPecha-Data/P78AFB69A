@@ -41,3 +41,8 @@ source_metadata:
       parent: Visualization
 created_at: '2022-03-01T05:45:20.981547'
 last_modified_at: '2022-03-01T05:45:20.981550'
+statistics:
+  total_words: 7810
+  total_non_words: 711
+quality:
+  non_words_ratio: 0.09
